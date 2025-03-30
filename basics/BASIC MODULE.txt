@@ -1,0 +1,219 @@
+BASIC MODULE:
+
+
+
+unit 1 (network concept basic and use ):
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/1%20Networking%20Concepts%20-%20Module%20Outline.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/2%20Computer%20Network.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/3%20Network%20Reference%20Model.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/4%20Understanding%20TCP%20IP%20Protocol%20Suite.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/5%20Network%20Topology.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/6%20Network%20Addressing.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/78/7%20Types%20of%20Computer%20Networks.mp4
+
+
+Unit 2 (computer networks basics and uses understanding network protocols)
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/1%20Understanding%20Network%20Protocols.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/2%20IP%20Protocols.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/3%20TCP%20Protocol.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/4%20User%20Datagram%20Protocol%20(UDP).mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/5%20Address%20Resolution%20Protocol.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/7%20Networking%20Protocol%20Part%201.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/79/8%20Networking%20Protocol%20Part%202.mp4
+
+Unit 3 (computer networks basics and uses network security protocols) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/80/1%20Network%20Security%20Protocols.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/80/2%20IP%20Security%20(IP%20Sec).mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/80/3%20SSL%20TLS%20Transport%20Layer%20Security.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/80/4%20Security%20at%20the%20application%20layer%20%20PGP.mp4
+
+
+unit 4 (computer network basics and uses wireless networks):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/81/1%20Wireless%20Network%20Learning%20Objectives.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/81/2%20Wireless%20Networks.mp4
+
+
+unit 5 ( computer network basic and cryptography use) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/1%20Cryptography.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/2%20Understanding%20Cryptography.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/3%20Types%20of%20Cryptography.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/4%20Symmetric%20Ciphers.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/5%20Asymmetric%20Key%20Ciphers.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/6%20Data%20Integrity%20and%20Authentication.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/82/7%20Digital%20Certificates.mp4
+
+unit 6 (computer networks basics and uses firewall) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/84/1%20Firewall%20Learning%20Objectives.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/84/2%20Firewalls.mp4
+
+
+unit 7 (computer networks basics and uses mobile os basics):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/1%20Android%20Apps%20Basics.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/2%20Mobile%20Operating%20System%20Android%20OS%20and%20Its%20Security.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/3%20Android%20File%20Systems.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/4%20Android%20Basics%20App%20Development.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/5%20Setting%20up%20Android%20Debug%20Bridge.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/6%20Setting%20up%20Android%20Studio%20for%20App%20Development.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/85/8%20Setup%20Android%20Emulator.mp4
+
+unit 8 (computer networks basics and uses introduction to cloud computing):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/86/1%20Introduction%20to%20Cloud%20Computing.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/86/2%20Introduction%20to%20Cloud.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/86/3%20Deployment%20Models%20of%20Cloud.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/86/4%20Cloud%20Service%20Models.mp4
+
+
+unit 9 (A SNEAK PEEK INTO CYBER SECURITY UNDERSTANDING cyber security from internet sideways):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/87/1%20Introduction%20to%20Cyber%20Security.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/87/2%20Know%20your%20Internet.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/87/3%20Cyber%20Security%20Vs%20Information%20Security.mp4
+
+unit 10 (a sneek peek into cyber security malware how malicious) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/88/1%20Malware%20How%20Malicious.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/88/2%20Understanding%20Malware.mp4
+
+unit 11 (a sneek peek into cyber security peeking inside a hacker mind ):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/89/Peeping%20Inside%20a%20Hackers%20Mind.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/89/2%20Cyber%20Threats%20Vulnerabilities%20and%20Attacks.mp4
+
+unit 12 ( a sneek into cyber security prevent cyber attacks ):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/90/1%20Prevent%20Cyber%20Attacks.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/90/2%20Protect%20Yourself%20from%20Cyber%20Attacks.mp4
+
+
+unit 13 (ethical hacking finding and exploting security flaws for good understanding ethical hacking ):
+
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/91/1%20Understanding%20Ethical%20Hacking.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/91/2%20Introduction%20to%20Ethical%20Hacking.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/91/3%20Skills%20Required%20to%20Become%20an%20Ethical%20Hacker.mp4
+
+
+unit 14 (ethical hacking finding and exploiting security flaws for good  is laws standard and policies) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/92/1%20Information%20Security%20Laws%20Standards%20and%20Policies.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/92/2%20Information%20Security%20Laws.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/92/3%20Information%20Security%20Standards.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/92/4%20Information%20Security%20Policies%20and%20Its%20Needs.mp4
+
+
+unit 15 (ethical hacking finding and exploitsng security flaws for good types of hackers):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/93/1%20Types%20of%20Hackers%20Learning%20Objectives.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/93/2%20Types%20of%20Hackers.mp4
+
+unit 16 (ethical hacking finding and exploiting security flaws for good VAPT ): 
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/94/1%20Vulnerability%20Assessment%20and%20Penetration%20Testing.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/94/2%20Vulnerability%20Assessment.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/94/3%20Penetration%20Testing.mp4
+
+
+unit 17 (Linux an important os for cyber security an overview):
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/95/2%20Understanding%20Linux%20OS.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/95/3%20Features%20of%20Linux%20OS.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/95/4%20Linux%20Distributuion.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/95/5%20Linux%20File%20System.mp4
+
+unit 18 (Linux an important os for cyber security managing files and packeges) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/1%20%20Managing%20Files%20and%20Packages.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/2%20Linux%20System%20Commands.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/3%20Linux%20Basic%20Commands.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/4%20Text%20Editors%20in%20Linux%20Operating%20System.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/5%20Commands%20for%20Navigating%20the%20File%20System.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/6%20Working%20with%20FIles%20and%20Directories.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/7%20Installation%20and%20Removal%20of%20Linux%20Packages.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/8%20Updating%20Packages.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/9%20Linux%20commands%20for%20file%20ownership%20and%20permissions.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/96/14%20Editor%20Commands.mp4
+
+
+unit 19 (Linux an important os for cyber security managing users and groups) :
+
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/1%20Managing%20Users%20and%20Groups.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/2%20Managing%20Users.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/3%20Managing%20Groups.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/4%20Password%20Management.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/5%20Permissions%20in%20Linux.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/6%20Sticky%20Bit%20and%20Path.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/8%20Linux%20Basic%20Commands%20Part%201.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/8%20Linux%20Basic%20Commands%20Part%202.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/8%20Linux%20Basic%20Commands%20Part%203.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/8%20Linux%20Basic%20Commands%20Part%204.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/97/9%20Password%20Management%20Lab.mp4
+
+
+unit 20 (Linux an important os for cyber security network and system management) :
+
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/98/1%20Network%20and%20System%20Management.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/98/2%20Network%20Connectivity%20Testing.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/98/3%20Network%20Configuration%20Files.mp4
+
+
+unit 21 (Linux an important os for cyber security shell scripts a wonderful tool for automation) :
+
+
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/99/1%20Shell%20Scripting.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/99/2%20Linux%20Shells.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/99/3%20Basics%20of%20Shell%20Programming.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/71/99/4%20Learning%20Shell%20Script%20Writing%20and%20Execution.mp4
+
+
+
+

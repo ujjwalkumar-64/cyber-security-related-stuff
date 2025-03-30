@@ -1,0 +1,57 @@
+ADVANCE MODULE 
+
+
+unit 1 ( network sniffing and monitoring using wireshark) :
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/76/Using%20Wireshark%20for%20Network%20Monitoring.mp4
+
+unit 2 (network scanning using nmap ):
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/83/NetworkScanningUsingNmapPart1.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/83/NetworkScanningUsingNmapPart2.mp4
+
+
+unit 3 (protection against rdp protocol based attack on windows machine)
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/100/BlueKeep%20RDP%20Vulnerability%20Part%201.mp4
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/100/BlueKeep%20RDP%20Vulnerability%20Part%202.mp4
+
+
+unit 4 (protection against smb protocol based attacks on window machine) :
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/101/SMB%20Based%20Attacks%20on%20Windows%20Machine.mp4
+
+
+unit 5 (detecting and preventing phishing attack):
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/102/Detecting%20and%20Preventing%20Phishing%20Attacks.mp4
+
+
+unit 6 (detecting and preventing from keylogger):
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/103/Detecting%20and%20Preventing%20from%20Keyloggers.mp4
+
+unit 7 (google dorks automate google hacking database scriping and searching) :
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/104/GoogleDorks.mp4
+
+unit 8 (performing reconnaissance of web servers using amass tool):
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/105/Information%20Gathering%20Using%20Amass.mp4
+
+
+unit 9 (OpenVAS tool for vulnerability assessment):
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/115/Vulnerability%20Scanner%20using%20Open%20VAS.mp4
+
+
+unit 10 (performing brute force attack on window using sparta):
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/116/Performing%20Brute%20Force%20Attack%20on%20Windows%20using%20Sparta.mp4
+
+unit 11(network vulnerability scanning using nessus):
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/117/Network%20Vulnerability%20Scanning%20using%20NESSUS.mp4
+
+unit 12 (dns Enum)
+
+https://cdaccybergyan.uat.dcservices.in/lms/resources/courses/content/69/123/DNS%20enum.mp4
